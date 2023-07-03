@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SurajSinghM
-- 👀 I’m interested in ... CompSci, AI, Discord Bots, and Music Making!
+- 👀 I’m interested in ... 
 - 🌱 I’m currently learning ...  High School Computer Science
 - 💞️ I’m looking to collaborate on ... Everything.
-- 📫 How to reach me ... Suraj.ms1@icloud.com and -SuraJ- #5434
+- 📫 How to reach me ... Suraj.ms1@icloud.com
 
 <!---
 SurajSinghM/SurajSinghM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
